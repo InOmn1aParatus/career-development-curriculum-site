@@ -36,8 +36,8 @@ It's recommended that you use the following template to set up the rest of your 
 
 Week 1: [Week 1 Prompts](https://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-1)
 
-[Link here to your gist]
-- [ ] (completed)
+[My gist](https://gist.github.com/InOmn1aParatus/16484a19e7ee87371891e42f2952098a)
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
