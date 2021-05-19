@@ -29,6 +29,8 @@ title: Career Journal Template
 
 6. Describe the vision you currently have for your career after Turing:
 
+[My gist](https://gist.github.com/InOmn1aParatus/cc6f02ec11860054a64772f92347932d)
+
 ## Set Up Your Career Journal for Mods 1-4:
 It's recommended that you use the following template to set up the rest of your career journal.
 
