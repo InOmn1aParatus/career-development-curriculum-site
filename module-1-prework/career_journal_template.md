@@ -55,7 +55,7 @@ Week 2: [Week 2 Prompts](https://careerdev.turing.edu/student_discussion_groups/
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
 Week 3: [Week 3 Prompts](https://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-3)
-[
+
 Link here to your gist]
 - [ ] (completed)
 - [ ] (partially complete)
