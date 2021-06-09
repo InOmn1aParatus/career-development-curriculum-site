@@ -47,17 +47,17 @@ If you will not be able to complete your journal this week, please provide an up
 
 Week 2: [Week 2 Prompts](https://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-2) 
 
-[M gist](https://gist.github.com/InOmn1aParatus/001db25a5d2a229bd38c8c6b19d2f1dc)
-- [ ] (completed)
-- [X] (partially complete)
+[My gist](https://gist.github.com/InOmn1aParatus/001db25a5d2a229bd38c8c6b19d2f1dc)
+- [X] (completed)
+- [ ] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
 Week 3: [Week 3 Prompts](https://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-3)
 
-Link here to your gist]
-- [ ] (completed)
+[My gist](https://gist.github.com/InOmn1aParatus/0713fe0610600ebd48180260ebf5022a)
+- [X] (completed)
 - [ ] (partially complete)
 - [ ] (not started)
 
@@ -65,19 +65,19 @@ If you will not be able to complete your journal this week, please provide an up
 
 Week 4: [Week 4 Prompts](https://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-4)
 
-[Link here to your gist]
+[My gist](https://gist.github.com/InOmn1aParatus/f7a43d67a589108cb45b1d1d052260e4)
 - [ ] (completed)
-- [ ] (partially complete)
+- [X] (partially complete)
 - [ ] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
 Week 5: [Week 5 Prompts](https://careerdev.turing.edu/student_discussion_groups/mod1_homeroom_discussion_prompts#week-5)
 
-[Link here to your gist]
+[My gist]
 - [ ] (completed)
 - [ ] (partially complete)
-- [ ] (not started)
+- [X] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
