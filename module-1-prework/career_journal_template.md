@@ -83,7 +83,7 @@ If you will not be able to complete your journal this week, please provide an up
 
 ### Mod 2 
 
-Week 1: [Week 1 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-1)
+Week 1: [Week 1 Prompts](https://careerdev.turing.edu/student_discussion_groups/mod2_homeroom_discussion_prompts)
 
 [My gist](https://gist.github.com/InOmn1aParatus/7dd1c0c750704e02736227bac2443a31)
 - [ ] (completed)
