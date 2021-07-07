@@ -85,10 +85,10 @@ If you will not be able to complete your journal this week, please provide an up
 
 Week 1: [Week 1 Prompts](https://github.com/turingschool/career-development-curriculum-site/blob/master/module_two/mod2_career_journal_prompts.md#week-1)
 
-[Link here to your gist]
+[My gist](https://gist.github.com/InOmn1aParatus/7dd1c0c750704e02736227bac2443a31)
 - [ ] (completed)
 - [ ] (partially complete)
-- [ ] (not started)
+- [X] (not started)
 
 If you will not be able to complete your journal this week, please provide an update for the Career Dev team on when you'll have it completed here: 
 
